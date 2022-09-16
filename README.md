@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://github.com/MithunWijayasiri">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,c,cpp,kotlin,php" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,c,cpp,kotlin" />
   </a>
 </p>
 
