@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithun Wijayasiri</h1>
 <h3 align="center">Android Developer | Full Stack Web Developer | UI Designer | Graphic Designer</h3>
 
+
 - 🌱 I’m currently learning **Network Managemnet and Software Development.**
 
 - 📫 How to reach me **mithunedu1@gmail.com**
