@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://github.com/MithunWijayasiri">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,ae,au,pr,eclipse" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,eclipse" />
   </a>
 </p>
