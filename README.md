@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithun Wijayasiri</h1>
 <h3 align="center">Android Developer | Full Stack Web Developer | UI Designer | Graphic Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" /> </p>
-
 - 🌱 I’m currently learning **Network Managemnet and Software Development.**
 
 - 📫 How to reach me **mithunedu1@gmail.com**
@@ -29,3 +27,5 @@
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,eclipse" />
   </a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" /> </p>
