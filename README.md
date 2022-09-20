@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mithun Wijayasiri</h1>
 <h3 align="center">Android Developer | Web Developer | UI Designer | Graphic Designer</h3>
 
+![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MithunWijayasiri&theme=codeSTACKr)
 
 - 🌱 I’m currently learning **Software Development**
 
@@ -32,5 +33,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MithunWijayasiri&theme=codeSTACKr_icons=true)
