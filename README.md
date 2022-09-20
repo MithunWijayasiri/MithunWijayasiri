@@ -31,5 +31,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" /> </p>
 
-![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Mithun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MithunWijayasiri&theme=codeSTACKr_icons=true)
