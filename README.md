@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 📫 How to reach me **mithunedu1@gmail.com**
+- 📫 How to reach me ![](https://dcbadge.vercel.app/api/shield/701020065352646676)
 
 - ⚡ My Hobbies **Coding | Designing | Music Producing**
 
@@ -30,3 +30,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" /> </p>
+
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
