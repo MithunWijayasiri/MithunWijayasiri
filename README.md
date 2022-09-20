@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Software Development**
 
-- 📫 How to reach me ![](https://dcbadge.vercel.app/api/shield/701020065352646676)
+- 📫 How to reach me git.MithunWijayasiri@proton.me
 
 - ⚡ My Hobbies **Coding | Designing | Music Producing**
 
