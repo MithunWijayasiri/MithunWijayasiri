@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages:</h3>
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,c,cpp,kotlin" />
   </a>
@@ -27,7 +27,7 @@
 
 <h3 align="left">Tools:</h3>
 
-<p align="center">
+<p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,eclipse" />
   </a>
