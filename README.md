@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mithun</h1>
-<h3 align="center">Software Developer | Web Developer | Graphic Designer</h3>
-
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MithunWijayasiri&theme=codeSTACKr" alt="Mithun's GitHub stats" /></a>
 
 <h3 align="left">Connect with me:</h3>
