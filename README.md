@@ -20,7 +20,7 @@
 <h3 align="left">Languages:</h3>
 
 <p align="center">
-  <a href="https://github.com/MithunWijayasiri">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,c,cpp,kotlin" />
   </a>
 </p>
@@ -28,7 +28,7 @@
 <h3 align="left">Tools:</h3>
 
 <p align="center">
-  <a href="https://github.com/MithunWijayasiri">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,eclipse" />
   </a>
 </p>
