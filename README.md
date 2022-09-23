@@ -33,5 +33,7 @@
   </a>
 </p>
 
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" /> </p>
 
