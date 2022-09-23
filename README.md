@@ -8,7 +8,7 @@
 
 - 📫 How to reach me git.MithunWijayasiri@proton.me
 
-- ⚡ My Hobbies **Coding | Designing | Music Producing**
+- ⚡ My Hobbies **Coding | Designing | Music Production**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
