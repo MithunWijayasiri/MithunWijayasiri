@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mithun Wijayasiri</h1>
 <h3 align="center">Android Developer | Web Developer | UI Designer | Graphic Designer</h3>
 
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MithunWijayasiri&theme=codeSTACKr" alt="Mithun's GitHub stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunWijayasiri&layout=compact" /></a> |
+| ------------- | ------------- |
+
 - 🌱 I’m currently learning **Software Development**
 
 - 📫 How to reach me git.MithunWijayasiri@proton.me
