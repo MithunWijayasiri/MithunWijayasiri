@@ -10,22 +10,6 @@
 <a href="https://dev.to/mithunwijayasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mithunwijayasiri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,bootstrap,c,cpp,kotlin" />
-  </a>
-</p>
-
-<h3 align="left">Tools:</h3>
-
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,eclipse" />
-  </a>
-</p>
-
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" /> </p>
