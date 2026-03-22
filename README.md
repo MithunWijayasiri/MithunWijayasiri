@@ -1,9 +1,8 @@
 # Hey there! I'm Mithun 👋
 
-I'm an **ISTQB certified QA Engineer** at Corzent, where I make sure quality is covered
-across projects from requirements all the way to release.
+I'm an **ISTQB certified QA Engineer** at Corzent.
 
-Outside of work, I'm building side projects. I genuinely enjoy the craft of building things, whether it's a handy tool or a full app. I'm always open to collaborating on open-source projects. If you've got something cool in the works, feel free to reach out!
+Outside of work, I'm building side projects. I genuinely enjoy the craft of building things, whether it's a handy tool or a full app. I'm always **open to collaborating on open-source projects**. If you've got something cool in the works, feel free to reach out!
 
 ## 📊 GitHub Stats
 
