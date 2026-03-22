@@ -1,13 +1,13 @@
 # Hey there! I'm Mithun 👋
 
-I'm an **ISTQB certified QA Engineer** at Corzent, where I spend my days breaking things, writing test plans, automating with Playwright, and making sure software ships with confidence.
+I'm an **ISTQB certified QA Engineer** at Corzent, where I make sure quality is covered
+across projects from requirements all the way to release.
 
-Outside of work, I'm building side projects. I genuinely enjoy the craft of building things, whether it's a handy tool or a full app. I'm always open to collaborating on open-source projects. If you've got something cool in
-the works, feel free to reach out!
+Outside of work, I'm building side projects. I genuinely enjoy the craft of building things, whether it's a handy tool or a full app. I'm always open to collaborating on open-source projects. If you've got something cool in the works, feel free to reach out!
 
-## GitHub Stats: <img src="https://komarev.com/ghpvc/?username=mithunwijayasiri&label=Profile%20views&color=0e75b6&style=flat" alt="mithunwijayasiri" />
+## 📊 GitHub Stats
 
-<div align="left">
+<div>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=MithunWijayasiri&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithunWijayasiri&theme=transparent&hide_border=true&layout=compact" />
 </div>
