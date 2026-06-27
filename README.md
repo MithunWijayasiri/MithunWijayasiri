@@ -7,8 +7,8 @@ Outside of work, I'm building side projects. I enjoy the craft of building thing
 ## 📊 GitHub Stats
 
 <div>
-  <img height="150" src="https://readme-stats-six-gamma.vercel.app/api?username=MithunWijayasiri&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github" />
-  <img height="150" src="https://readme-stats-six-gamma.vercel.app/api/top-langs/?username=MithunWijayasiri&theme=transparent&hide_border=true&layout=compact&hide=html,css" />
+  <img height="150" alt="Mithun's GitHub stats" src="https://readme-stats-six-gamma.vercel.app/api?username=MithunWijayasiri&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github" />
+  <img height="150" alt="Mithun's most used languages" src="https://readme-stats-six-gamma.vercel.app/api/top-langs/?username=MithunWijayasiri&theme=transparent&hide_border=true&layout=compact&hide=html,css" />
 </div>
 
 ## 🛠️ Tech Stack
