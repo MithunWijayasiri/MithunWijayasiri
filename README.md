@@ -7,10 +7,10 @@ Outside of work, I'm building side projects. I enjoy the craft of building thing
 ## 📊 GitHub Stats
 
 <div>
-  <img height="150" src="https://readme-stats-six-gamma.vercel.app/api?username=MithunWijayasiri&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true" />
-  <img height="150" src="https://readme-stats-six-gamma.vercel.app/api/top-langs/?username=MithunWijayasiri&theme=transparent&hide_border=true&layout=compact" />
+  <img height="150" src="https://readme-stats-six-gamma.vercel.app/api?username=MithunWijayasiri&theme=transparent&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github" />
+  <img height="150" src="https://readme-stats-six-gamma.vercel.app/api/top-langs/?username=MithunWijayasiri&theme=transparent&hide_border=true&layout=compact&hide=html,css" />
 </div>
 
-## Tech Stack:
+## 🛠️ Tech Stack
 
-<picture><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></picture> <picture><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></picture> <picture><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></picture> <picture><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"></picture> <picture><img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"></picture>
+<picture><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></picture> <picture><img src="https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"></picture> <picture><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></picture> <picture><img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></picture> <picture><img src="https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></picture> <picture><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"></picture> <picture><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"></picture>
